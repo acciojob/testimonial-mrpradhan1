@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+body{
+	background-color:#f5f5f5;
+}
+.class{
+	border:1px solid gray;
+	margin:20px;
+	background-color:white;
+}
+p{
+	padding-left:10px;
+}
+.secondPara{
+	text-align:right;
+	padding-right:10px;
+}
